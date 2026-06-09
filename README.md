@@ -76,9 +76,9 @@
 <img width="425" height="316" alt="image" src="https://github.com/user-attachments/assets/b54fbc75-fd4b-49ed-8f7c-f6932ca900e4" />
 
 
-<br>
 
-* *사진들은 nasa, Pixabay 사이트에서 가져왔으며 피그마 내 레이어 이름에 출처표기를 하였습니다. 아이콘은 Font Awesome 사이트의 FREE 아이콘을 이용하였습니다.*
+
+<br>* *사진들은 nasa, Pixabay 사이트에서 가져왔으며 피그마 내 레이어 이름에 출처표기를 하였습니다. 아이콘은 Font Awesome 사이트의 FREE 아이콘을 이용하였습니다.*
 
 
 
