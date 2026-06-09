@@ -28,3 +28,9 @@
 
 ### 홈 배너2
 <img width="775" height="540" alt="image" src="https://github.com/user-attachments/assets/b20f68d5-5695-4747-91bb-d0502db08fa2" />
+
+### 상단바, 하단바
+<img width="488" height="346" alt="image" src="https://github.com/user-attachments/assets/96ebe03e-5ae7-4416-9bae-4d5500b93eb5" />
+
+### 기업소개 페이지 컴포넌트
+<img width="379" height="650" alt="image" src="https://github.com/user-attachments/assets/e6f5c3c6-f76c-4ba0-8b29-1105c20771b0" />
