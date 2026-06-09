@@ -18,6 +18,6 @@
 <br/>
 
 ### Spacing
-![Uploading image.png…]()
-<br/>
+
+<img width="441" height="452" alt="image" src="https://github.com/user-attachments/assets/cc5a5f3f-12ee-461b-8bdf-651f0a64b640" />
 
