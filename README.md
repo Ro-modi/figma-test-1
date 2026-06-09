@@ -55,7 +55,7 @@
 
 ### 로그인 페이지
 <img width="393" height="437" alt="image" src="https://github.com/user-attachments/assets/d2730631-bc3f-4a48-bfd0-2feae8734413" />
-<img width="208" height="408" alt="image" src="https://github.com/user-attachments/assets/5c7b2b85-bb17-47b1-9f73-216466e2edcc" />
+<img width="198" height="432" alt="image" src="https://github.com/user-attachments/assets/c8e62b59-f6aa-44b9-a1bf-a19fa7436dae" />
 <img width="190" height="425" alt="image" src="https://github.com/user-attachments/assets/49d6c969-c60f-42c5-92b7-bd6834a8b549" />
 
 
