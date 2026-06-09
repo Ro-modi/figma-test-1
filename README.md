@@ -9,7 +9,7 @@
 
 ## 디자인 시스템
 ### Color
-<img width="763" height="609" alt="image" src="https://github.com/user-attachments/assets/916dea1a-5347-46f5-bcbe-30ad74d97c6b" />
+<img width="488" height="609" alt="image" src="https://github.com/user-attachments/assets/61cad35a-c170-49e7-9d83-564cdae6b355" />
 
 
 ### Typography
