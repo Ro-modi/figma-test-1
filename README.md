@@ -13,7 +13,7 @@
 
 
 ### Typography
-<img width="441" height="452" alt="image" src="https://github.com/user-attachments/assets/ad7b36c3-3d3d-4c95-a627-67df64f62f44" />
+<img width="444" height="612" alt="image" src="https://github.com/user-attachments/assets/6bf80801-952c-441b-807b-dc7ce4c6d0b2" />
 
 <br/>
 
