@@ -1,4 +1,4 @@
-<img width="208" height="408" alt="image" src="https://github.com/user-attachments/assets/b3fdd7e4-8d63-4985-a5cb-a2b12d65238b" /># figma-test-1
+# figma-test-1
 개인 테스트용 쇼핑몰 모바일 웹사이트입니다.
 
 # 청소기 쇼핑몰 피그마 모바일 웹사이트
