@@ -56,7 +56,19 @@
 ### 로그인 페이지
 <img width="393" height="437" alt="image" src="https://github.com/user-attachments/assets/d2730631-bc3f-4a48-bfd0-2feae8734413" />
 <img width="198" height="432" alt="image" src="https://github.com/user-attachments/assets/c8e62b59-f6aa-44b9-a1bf-a19fa7436dae" />
-<img width="190" height="425" alt="image" src="https://github.com/user-attachments/assets/49d6c969-c60f-42c5-92b7-bd6834a8b549" />
+
+### 회원가입 이용약관 페이지
+<img width="192" height="835" alt="image" src="https://github.com/user-attachments/assets/4815bd3d-3d71-4d43-845a-e3e711cc069e" />
+
+### 회원가입 본인인증 페이지
+<img width="139" height="305" alt="image" src="https://github.com/user-attachments/assets/b3613d1d-eced-4192-8fcd-d9b7e6b2a806" />
+<img width="145" height="301" alt="image" src="https://github.com/user-attachments/assets/59588922-96e8-4092-bef1-7bcbcff60c1a" />
+<img width="290" height="306" alt="image" src="https://github.com/user-attachments/assets/cd054aac-6fa5-4bb4-bce8-65428fdbfef9" />
+<img width="284" height="304" alt="image" src="https://github.com/user-attachments/assets/63773883-bc10-476a-bd18-b6a84290e806" />
+<img width="276" height="295" alt="image" src="https://github.com/user-attachments/assets/cd55e058-d284-4561-938f-0a90daed0d2d" />
+
+
+
 
 
 
