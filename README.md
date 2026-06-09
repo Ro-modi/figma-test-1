@@ -8,14 +8,15 @@
 <img width="563" height="471" alt="image" src="https://github.com/user-attachments/assets/21822f54-3d76-436a-bb9a-1bd91bd2c43e" />
 
 ## 디자인 시스템
-<br/>
-
 ### Color
 <img width="763" height="609" alt="image" src="https://github.com/user-attachments/assets/916dea1a-5347-46f5-bcbe-30ad74d97c6b" />
-<br/>
+
+
 ### Typography
 <img width="441" height="452" alt="image" src="https://github.com/user-attachments/assets/ad7b36c3-3d3d-4c95-a627-67df64f62f44" />
+
 <br/>
+
 ### Spacing
 ![Uploading image.png…]()
 <br/>
