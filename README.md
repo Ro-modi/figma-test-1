@@ -40,3 +40,13 @@
 
 ### 기타 컴포넌트
 <img width="636" height="568" alt="image" src="https://github.com/user-attachments/assets/2462557c-0419-4123-a7c2-bd44ea5fdf96" />
+
+<br/>
+## 화면 페이지
+
+### 메뉴,검색창 프로토타입 구현
+<img width="456" height="628" alt="image" src="https://github.com/user-attachments/assets/13147dde-094b-4f67-b89d-da433a24d18f" />
+
+### 홈,고객지원,기업정보 페이지
+<img width="793" height="481" alt="image" src="https://github.com/user-attachments/assets/9d596b50-1f25-4e51-9170-bdfc8846e0a7" />
+
