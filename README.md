@@ -41,7 +41,8 @@
 ### 기타 컴포넌트
 <img width="636" height="568" alt="image" src="https://github.com/user-attachments/assets/2462557c-0419-4123-a7c2-bd44ea5fdf96" />
 
-<br/>
+<br>
+
 ## 화면 페이지
 
 ### 메뉴,검색창 프로토타입 구현
