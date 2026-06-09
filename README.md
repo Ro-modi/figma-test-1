@@ -68,6 +68,14 @@
 <img width="276" height="295" alt="image" src="https://github.com/user-attachments/assets/cd55e058-d284-4561-938f-0a90daed0d2d" />
 
 
+### 회원가입 아이디, 비밀번호 설정, 완료 페이지
+<img width="143" height="306" alt="image" src="https://github.com/user-attachments/assets/8ff19dcc-951d-40f5-9f3e-171ecc3b698d" />
+<img width="133" height="299" alt="image" src="https://github.com/user-attachments/assets/963c252c-2a61-478a-8323-17675eda6043" />
+<img width="285" height="306" alt="image" src="https://github.com/user-attachments/assets/0d0db2cb-0e63-4f2e-9294-a05e00c3d4a9" />
+<img width="425" height="316" alt="image" src="https://github.com/user-attachments/assets/b54fbc75-fd4b-49ed-8f7c-f6932ca900e4" />
+
+
+
 
 
 
