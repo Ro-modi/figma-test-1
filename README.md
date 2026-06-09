@@ -1,4 +1,4 @@
-# figma-test-1
+<img width="645" height="679" alt="image" src="https://github.com/user-attachments/assets/7209c832-ceaa-40df-9be6-ce92e73ad230" /># figma-test-1
 개인 테스트용 쇼핑몰 모바일 웹사이트입니다.
 
 # 청소기 쇼핑몰 피그마 모바일 웹사이트
@@ -21,3 +21,10 @@
 
 <img width="441" height="452" alt="image" src="https://github.com/user-attachments/assets/cc5a5f3f-12ee-461b-8bdf-651f0a64b640" />
 
+## 컴포넌트
+
+### 홈 슬라이드 배너 컴포넌트
+<img width="645" height="679" alt="image" src="https://github.com/user-attachments/assets/2eb74e4a-31bb-4233-8ad9-2d5929cfb778" />
+
+### 홈 배너2
+<img width="775" height="540" alt="image" src="https://github.com/user-attachments/assets/b20f68d5-5695-4747-91bb-d0502db08fa2" />
